@@ -8,7 +8,7 @@ from kompressor.kompressor import compress_image, no_of_unique_colors
               default="")
 @click.option('-c', '--colors', help='no of colors in the output file',
               default= 512,type=int)
-@click.option('-u', '--unique-colors', help='path to image for finding no of colors',
+@click.option('-u', '--unique-colors', help='Disply the no. of colors in image',
               is_flag=True)
 def main(path, colors, unique_colors):
     """Compress image using k-means clustering algorithm."""

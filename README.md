@@ -66,13 +66,19 @@ $ kompressor -p path/to/image.jpg -u
 ## Example results
 
 <p align="center" />
-<img src="" />
+<img src="https://raw.githubusercontent.com/twentyse7en/kompressor/main/assets/flower.jpg?token=AOHUM64RZUVFTZYR4BLDNMTAOFGY6" height=200/>
+<br>
+*Original Image*
 <p>
 <p align="center" />
-<img src="" />
+<img src="https://raw.githubusercontent.com/twentyse7en/kompressor/main/assets/flower_compressed_64c.jpg?token=AOHUM6436KDMRXOE323CHZTAOFG4W" height=200/>
+<br>
+*64 colors*
 <p>
 <p align="center" />
-<img src="" />
+<img src="https://raw.githubusercontent.com/twentyse7en/kompressor/main/assets/flower_compressed_2c.jpg?token=AOHUM67TDNGQZ7WKKDHU4J3AOFG6Q" height=200/>
+<br>
+*2 colors*
 <p>
 
 ## Credits

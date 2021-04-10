@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/twentyse7en/kompressor/32e17c57b59b56a04f9f6608b24837037ef62b8f/LOGO.png?token=AOHUM623ROESQ7TC63HP7G3AOCTDI" height="110">
+<img src="https://raw.githubusercontent.com/twentyse7en/kompressor/main/assets/LOGO.png?token=AOHUM65ETBOXUMCKBSPJN7LAOFFKO" height="110">
 <br>
 </p>
 
@@ -13,7 +13,9 @@
 
 <p align="center"> Performs pixel-wise color-quantization using K-Means </p>
 
-<p align="center"> GIF <p/>
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/twentyse7en/kompressor/main/assets/term.gif?token=AOHUM6ZR6IC5K47VARNER63AOFFKU" />
+<p/>
 
 ## Installation
 
@@ -61,6 +63,17 @@ To get the no. of colors in the image
 ```console
 $ kompressor -p path/to/image.jpg -u
 ```
+## Example results
+
+<p align="center" />
+<img src="" />
+<p>
+<p align="center" />
+<img src="" />
+<p>
+<p align="center" />
+<img src="" />
+<p>
 
 ## Credits
 Inspired by [scikit-learn](https://scikit-learn.org/stable/auto_examples/cluster/plot_color_quantization.html#:~:text=Performs%20a%20pixel%2Dwise%20Vector,preserving%20the%20overall%20appearance%20quality.).

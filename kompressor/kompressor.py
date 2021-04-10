@@ -38,7 +38,7 @@ def compress_image(path, n_colors = 512):
     
     t0 = time()
     print(f"[LOG]: Fitting model on a small sub-sample of the data")
-    image_array_sample = shuffle(image_array, random_state=0)[:n_colors]
+    image_array_sample = shuffle(image_array, random_state=0)[:train_len]
     kmeans = KMeans(n_clusters= n_colors, random_state=0).fit(image_array_sample)
     print(f"[LOG]: done in {time()-t0:.3f}s.")
 

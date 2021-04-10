@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="">
+<img src="https://raw.githubusercontent.com/twentyse7en/kompressor/32e17c57b59b56a04f9f6608b24837037ef62b8f/LOGO.png?token=AOHUM623ROESQ7TC63HP7G3AOCTDI" height="110">
 <br>
 </p>
 

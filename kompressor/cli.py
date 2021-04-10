@@ -18,7 +18,7 @@ def main(path, colors, unique_colors):
         click.echo("kompressor --help for more details")
     
     if unique_colors:
-        no_of_unique_colors(unique)
+        no_of_unique_colors(path)
     else:
         compress_image(path, colors) 
     return 0

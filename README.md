@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/twentyse7en/kompressor/main/assets/LOGO.png?token=AOHUM65ETBOXUMCKBSPJN7LAOFFKO" height="110">
+<img src="https://raw.githubusercontent.com/twentyse7en/kompressor/main/assets/LOGO.png" height="110">
 <br>
 </p>
 
@@ -11,10 +11,10 @@
 </p>
 
 
-<p align="center"> Performs pixel-wise color-quantization using K-Means </p>
+<p align="center"> ⚡ Performs pixel-wise color-quantization using K-Means ⚡</p>
 
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/twentyse7en/kompressor/main/assets/term.gif?token=AOHUM6ZR6IC5K47VARNER63AOFFKU" />
+<img src="https://raw.githubusercontent.com/twentyse7en/kompressor/main/assets/term.gif" />
 <p/>
 
 ## Installation
@@ -66,19 +66,19 @@ $ kompressor -p path/to/image.jpg -u
 ## Example results
 
 <p align="center" />
-<img src="https://raw.githubusercontent.com/twentyse7en/kompressor/main/assets/flower.jpg?token=AOHUM64RZUVFTZYR4BLDNMTAOFGY6" height=200/>
+<img src="https://raw.githubusercontent.com/twentyse7en/kompressor/main/assets/flower.jpg" height=200/>
 <br>
-*Original Image*
+<em>Original Image</em>
 <p>
 <p align="center" />
-<img src="https://raw.githubusercontent.com/twentyse7en/kompressor/main/assets/flower_compressed_64c.jpg?token=AOHUM6436KDMRXOE323CHZTAOFG4W" height=200/>
+<img src="https://raw.githubusercontent.com/twentyse7en/kompressor/main/assets/flower_compressed_64c.jpg" height=200/>
 <br>
-*64 colors*
+<em>64 colors</em>
 <p>
 <p align="center" />
-<img src="https://raw.githubusercontent.com/twentyse7en/kompressor/main/assets/flower_compressed_2c.jpg?token=AOHUM67TDNGQZ7WKKDHU4J3AOFG6Q" height=200/>
+<img src="https://raw.githubusercontent.com/twentyse7en/kompressor/main/assets/flower_compressed_2c.jpg" height=200/>
 <br>
-*2 colors*
+<em>2 colors</em>
 <p>
 
 ## Credits
